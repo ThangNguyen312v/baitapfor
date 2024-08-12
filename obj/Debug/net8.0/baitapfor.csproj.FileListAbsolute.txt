@@ -1,0 +1,14 @@
+E:\baitapfor\bin\Debug\net8.0\baitapfor.exe
+E:\baitapfor\bin\Debug\net8.0\baitapfor.deps.json
+E:\baitapfor\bin\Debug\net8.0\baitapfor.runtimeconfig.json
+E:\baitapfor\bin\Debug\net8.0\baitapfor.dll
+E:\baitapfor\bin\Debug\net8.0\baitapfor.pdb
+E:\baitapfor\obj\Debug\net8.0\baitapfor.GeneratedMSBuildEditorConfig.editorconfig
+E:\baitapfor\obj\Debug\net8.0\baitapfor.AssemblyInfoInputs.cache
+E:\baitapfor\obj\Debug\net8.0\baitapfor.AssemblyInfo.cs
+E:\baitapfor\obj\Debug\net8.0\baitapfor.csproj.CoreCompileInputs.cache
+E:\baitapfor\obj\Debug\net8.0\baitapfor.dll
+E:\baitapfor\obj\Debug\net8.0\refint\baitapfor.dll
+E:\baitapfor\obj\Debug\net8.0\baitapfor.pdb
+E:\baitapfor\obj\Debug\net8.0\baitapfor.genruntimeconfig.cache
+E:\baitapfor\obj\Debug\net8.0\ref\baitapfor.dll
